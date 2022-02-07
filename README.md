@@ -83,9 +83,7 @@ Publish the website in the given URL.
         }
         
         body {
-            background-color: #ff4e00;
-            background-image: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
-            background-image: url("img/1.jpg");
+           
             background-repeat: no-repeat;
             background-attachment: fixed;
             position: sticky;
@@ -111,9 +109,7 @@ Publish the website in the given URL.
         }
         
         .footer {
-            background: linear-gradient(to right, #f27121, #e94057, #8a2387);
-            color: transparent;
-            -webkit-background-clip: text;
+            
             background-clip: text;
             text-decoration: none;
             margin: 0;
