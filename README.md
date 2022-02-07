@@ -225,7 +225,7 @@ Publish the website in the given URL.
         <br>
         <div class="fbox2">
             <div class="footer">
-                Developed by Venkatesh E.
+                Developed by Vishwarthinam.
             </div>
         </div>
 </body>
